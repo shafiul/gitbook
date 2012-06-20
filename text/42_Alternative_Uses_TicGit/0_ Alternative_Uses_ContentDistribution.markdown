@@ -1,5 +1,0 @@
-## Alternative Uses ##
-
-ContentDistribution
-
-TicGit

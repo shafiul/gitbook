@@ -1,6 +1,0 @@
-## Hosted Git ##
-
-github
-
-repoorcz 
-
